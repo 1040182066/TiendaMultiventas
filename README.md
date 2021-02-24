@@ -13,4 +13,7 @@ Hize un test en modo de Incognito para probar y funciono,  registrandome con otr
 Creo que todo esta bien
 
 la Url del proyecto en el navegador es http://www.localhost/multiventasonline.com/   
-la Url  del proyecto en GitHub es  
+la Url  del proyecto en GitHub es https://github.com/1040182066/TiendaMultiventas.git 
+
+
+
