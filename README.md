@@ -1,5 +1,5 @@
 # TiendaMultiventas
-Repositorio Git de Tienda Ecomerce
+Repositorio Git de Tienda Ecomerce, se encuenta en  la rama Master
 
 tienda ecommerce como archivo sql de la bade de datos
 carpeta  multiventas como proyecto principal de wordpress, debe abrirse en xampp con servidor apache y  mysql
@@ -12,8 +12,9 @@ el mismo tema, pero toda la pagina es funciona, ademas utilize el plugin de wooc
 Hize un test en modo de Incognito para probar y funciono,  registrandome con otro correo como vendedor y  agrege  algunos productos como prueba.
 Creo que todo esta bien
 
-la Url del proyecto en el navegador es http://www.localhost/multiventasonline.com/   
-la Url  del proyecto en GitHub es https://github.com/1040182066/TiendaMultiventas.git 
+La url del proyecto local host en el navegador es  http://www.localhost/multiventasonline.com/
+y la Url del repositorio en GitHub es https://github.com/1040182066/TiendaMultiventas.git 
 
+   
 
 
