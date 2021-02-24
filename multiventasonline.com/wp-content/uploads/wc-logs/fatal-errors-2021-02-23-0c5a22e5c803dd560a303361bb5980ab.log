@@ -1,0 +1,4 @@
+2021-02-23T15:51:26+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in E:\XAMP\htdocs\multiventasonline.com\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Features\Onboarding.php on line 16
+
+2021-02-23T21:12:09+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in E:\XAMP\htdocs\multiventasonline.com\wp-includes\Requests\Transport\cURL.php on line 463
+
